@@ -34,6 +34,6 @@ The result format is in the following example.
 
 SELECT query_name
     ROUND(AVG(rating/position), 2) AS quality,
-    ROUNT(SUM(CASE WHEN rating < 3 THEN 1 ELSE 0 END) / COUNT(rating) * 100, 2) as poor_query_percentage
+    ROUND(SUM(CASE WHEN rating < 3 THEN 1 ELSE 0 END) / COUNT(rating) * 100, 2) as poor_query_percentage
 FROM queries
 GROUP BY query_name;
