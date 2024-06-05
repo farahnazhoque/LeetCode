@@ -26,3 +26,6 @@ class Solution:
                 hashMap[nums[i]] = 1
         
         return False
+    
+    # Time complexity: O(n)
+    # Space complexity: O(n)
