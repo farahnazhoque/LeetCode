@@ -1,4 +1,5 @@
 import collections
+from typing import List
 
 class Solution:
     def isValidSudoku(self, board: List[List[str]]) -> bool:
@@ -30,9 +31,9 @@ class Solution:
 
         # Implementing
 
-        columns = defaultdict(set)
-        rows = defaultdict(set)
-        squares = defaultdict(set)
+        columns = collections.defaultdict(set)
+        rows = collections.defaultdict(set)
+        squares = collections.defaultdict(set)
 
 
         for r in range(9):
