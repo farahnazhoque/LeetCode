@@ -12,9 +12,9 @@ class Solution:
                 return mid
             if nums[left] <= nums[mid]:
                 if target > nums[mid] or target < nums[left]:
-                    left = mid + 1
+                    left = mid + 1 # we will check the right side
                 else:
-                    right = mid - 1
+                    right = mid - 1 # we will check the left side
             else:
                 if target < nums[mid] or target > nums[right]:
                     right = mid - 1
