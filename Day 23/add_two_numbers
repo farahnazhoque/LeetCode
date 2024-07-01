@@ -1,48 +1,69 @@
 # Definition for singly-linked list.
+from typing import Optional
+
+
 class ListNode:
     def __init__(self, val=0, next=None):
         self.val = val
         self.next = next
 
-from typing import Optional
-
-
 class Solution:
     def addTwoNumbers(self, l1: Optional[ListNode], l2: Optional[ListNode]) -> Optional[ListNode]:
         
         # Understanding
+        # questions to ask: can the length of the linked list be different: yes
+        # they will have a carry as well, so we need to take account of that
+        # so the linked list is going to be switched around
+        # 191 + 592 = [1, 9, 1] + [2, 9, 5] 
 
 
         # Matching
+        # linked list and pointers
+        # we will have two pointers and a dummy pointer
 
 
         # Planning
+        """
+        1. we will create a dummy node which has a value of 0
+        2. we will have a current pointer which will point at the dummy node
+        3. we will also have a carry variable to store the value of the carry
+        4. then we will basically start to loop through the two linked lists by making sure a value for l1, l2 or carry exists
+        5. we will store the two values of the two nodes we first encounter in l1 and l2
+        6. we will get a total of the two 
+        7. if the total is a two digit value, we will get the carry
+        8. then after the carry is taken, we will reduce it down to a one digit value
+        9. we will create a new node for curr.next with this new value
+        10. then curr will be pointing to curr.next
+        11. we will move both the pointers of l1 and l2 forward
+        12. outside the while loop, once everything is done, we will return dummy next which contains the first value of the added numbers
+    
+        """
 
 
         # Implementing
         dummy = ListNode(0)
-        curr = dummy
-        
+        curr = dummy # a new pointer pointing at dummy
+
         carry = 0
-        while l1 or l2 or carry:
+        while l1 or l2 or carry: # we take into consideraton of carry cause sometimes, we will have a carry by the end of l1 and l2 which needs to show up
             val1 = l1.val if l1 else 0
             val2 = l2.val if l2 else 0
-            
+
             val = val1 + val2 + carry
-            carry = val // 10
+            carry = val // 10 # gets the digit in front of two digits
             val = val % 10
             curr.next = ListNode(val)
-            
             curr = curr.next
+
             l1 = l1.next if l1 else None
             l2 = l2.next if l2 else None
-            
+
         return dummy.next
         
 
-        # Reviewing: Correct
+        # Reviewing
 
 
-        # Evaluating: 
-        # Time complexity: O(n)
-        # Space complexity: O(1)
+        # Evaluating:
+        # Time complexity: O(n) where n is the length of the longest linked list
+        # Space complexity: O(n) where n is the length of the longest linked list
