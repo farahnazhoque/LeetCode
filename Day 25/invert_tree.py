@@ -5,6 +5,9 @@
 #         self.left = left
 #         self.right = right
 
+from typing import Optional
+
+
 class Solution:
     def invertTree(self, root: Optional[TreeNode]) -> Optional[TreeNode]:
         # understanding
