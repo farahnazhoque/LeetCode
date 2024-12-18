@@ -5,3 +5,19 @@ For the longest time, I have been quite intimidated by LeetCode problems, and fr
 
 ## My motivation:
 I recently learnt that I get to define what failure looks like. Previously, I would often feel it was a failure on my part if I only managed to solve one problem in a day. Now, I understand that the active effort of showing up and deeply understanding that one problem is far more valuable than skimming through solutions to complete three problems in an hour—or worse, avoiding the challenge altogether due to fear. Embracing the process of learning something new and exercising my problem-solving skills is now my primary motivation. This shift in perspective not only fosters my growth but also builds resilience
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/farahnazhoque/LeetCode/tree/master/0088-merge-sorted-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/farahnazhoque/LeetCode/tree/master/0088-merge-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/farahnazhoque/LeetCode/tree/master/0088-merge-sorted-array) |
+<!---LeetCode Topics End-->
