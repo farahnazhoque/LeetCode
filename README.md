@@ -11,6 +11,7 @@ I recently learnt that I get to define what failure looks like. Previously, I wo
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/farahnazhoque/LeetCode/tree/master/0001-two-sum) |
 | [0088-merge-sorted-array](https://github.com/farahnazhoque/LeetCode/tree/master/0088-merge-sorted-array) |
 ## Two Pointers
 |  |
@@ -20,4 +21,8 @@ I recently learnt that I get to define what failure looks like. Previously, I wo
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/farahnazhoque/LeetCode/tree/master/0088-merge-sorted-array) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/farahnazhoque/LeetCode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
