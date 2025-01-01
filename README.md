@@ -15,6 +15,7 @@ I recently learnt that I get to define what failure looks like. Previously, I wo
 | [0026-remove-duplicates-from-sorted-array](https://github.com/farahnazhoque/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/farahnazhoque/LeetCode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/farahnazhoque/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/farahnazhoque/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Two Pointers
 |  |
 | ------- |
@@ -29,4 +30,8 @@ I recently learnt that I get to define what failure looks like. Previously, I wo
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/farahnazhoque/LeetCode/tree/master/0001-two-sum) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/farahnazhoque/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
