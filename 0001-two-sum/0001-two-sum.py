@@ -2,14 +2,7 @@ from typing import List
 
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
-        tracking = {}
-
-        for i, num in enumerate(nums):
-            complement = target - num # the value needed to make up the target
-
-            if complement in tracking:
-                return [tracking[complement], i]
-
-            tracking[num] = i # adding to the dictionary if not existing
-
-        return []
+        for i in range(len(nums)):
+            for j in range(i + 1, len(nums)):
+                if nums[i] + nums[j] == target:
+                    return [i, j]
