@@ -17,6 +17,7 @@ I recently learnt that I get to define what failure looks like. Previously, I wo
 | [0055-jump-game](https://github.com/farahnazhoque/LeetCode/tree/master/0055-jump-game) |
 | [0088-merge-sorted-array](https://github.com/farahnazhoque/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/farahnazhoque/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0217-contains-duplicate](https://github.com/farahnazhoque/LeetCode/tree/master/0217-contains-duplicate) |
 | [0523-continuous-subarray-sum](https://github.com/farahnazhoque/LeetCode/tree/master/0523-continuous-subarray-sum) |
 ## Two Pointers
 |  |
@@ -29,11 +30,13 @@ I recently learnt that I get to define what failure looks like. Previously, I wo
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/farahnazhoque/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/farahnazhoque/LeetCode/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/farahnazhoque/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/farahnazhoque/LeetCode/tree/master/0013-roman-to-integer) |
+| [0217-contains-duplicate](https://github.com/farahnazhoque/LeetCode/tree/master/0217-contains-duplicate) |
 | [0523-continuous-subarray-sum](https://github.com/farahnazhoque/LeetCode/tree/master/0523-continuous-subarray-sum) |
 ## Dynamic Programming
 |  |
