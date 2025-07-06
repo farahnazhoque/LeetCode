@@ -22,6 +22,7 @@ I recently learnt that I get to define what failure looks like. Previously, I wo
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/farahnazhoque/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/farahnazhoque/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/farahnazhoque/LeetCode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/farahnazhoque/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -43,6 +44,7 @@ I recently learnt that I get to define what failure looks like. Previously, I wo
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/farahnazhoque/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0055-jump-game](https://github.com/farahnazhoque/LeetCode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/farahnazhoque/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Math
@@ -53,6 +55,7 @@ I recently learnt that I get to define what failure looks like. Previously, I wo
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/farahnazhoque/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/farahnazhoque/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/farahnazhoque/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/farahnazhoque/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
