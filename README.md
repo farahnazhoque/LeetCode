@@ -12,6 +12,7 @@ I recently learnt that I get to define what failure looks like. Previously, I wo
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/farahnazhoque/LeetCode/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/farahnazhoque/LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/farahnazhoque/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/farahnazhoque/LeetCode/tree/master/0027-remove-element) |
 | [0055-jump-game](https://github.com/farahnazhoque/LeetCode/tree/master/0055-jump-game) |
@@ -23,6 +24,7 @@ I recently learnt that I get to define what failure looks like. Previously, I wo
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/farahnazhoque/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0015-3sum](https://github.com/farahnazhoque/LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/farahnazhoque/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/farahnazhoque/LeetCode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/farahnazhoque/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -30,6 +32,7 @@ I recently learnt that I get to define what failure looks like. Previously, I wo
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/farahnazhoque/LeetCode/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/farahnazhoque/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/farahnazhoque/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/farahnazhoque/LeetCode/tree/master/0242-valid-anagram) |
