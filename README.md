@@ -12,6 +12,7 @@ I recently learnt that I get to define what failure looks like. Previously, I wo
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/farahnazhoque/LeetCode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/farahnazhoque/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/farahnazhoque/LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/farahnazhoque/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/farahnazhoque/LeetCode/tree/master/0027-remove-element) |
@@ -24,6 +25,7 @@ I recently learnt that I get to define what failure looks like. Previously, I wo
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/farahnazhoque/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/farahnazhoque/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/farahnazhoque/LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/farahnazhoque/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/farahnazhoque/LeetCode/tree/master/0027-remove-element) |
@@ -75,6 +77,7 @@ I recently learnt that I get to define what failure looks like. Previously, I wo
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/farahnazhoque/LeetCode/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/farahnazhoque/LeetCode/tree/master/0055-jump-game) |
 ## Prefix Sum
 |  |
