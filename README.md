@@ -18,6 +18,7 @@ I recently learnt that I get to define what failure looks like. Previously, I wo
 | [0027-remove-element](https://github.com/farahnazhoque/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/farahnazhoque/LeetCode/tree/master/0035-search-insert-position) |
 | [0055-jump-game](https://github.com/farahnazhoque/LeetCode/tree/master/0055-jump-game) |
+| [0066-plus-one](https://github.com/farahnazhoque/LeetCode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/farahnazhoque/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/farahnazhoque/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/farahnazhoque/LeetCode/tree/master/0217-contains-duplicate) |
@@ -58,6 +59,7 @@ I recently learnt that I get to define what failure looks like. Previously, I wo
 | ------- |
 | [0009-palindrome-number](https://github.com/farahnazhoque/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/farahnazhoque/LeetCode/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/farahnazhoque/LeetCode/tree/master/0066-plus-one) |
 | [0523-continuous-subarray-sum](https://github.com/farahnazhoque/LeetCode/tree/master/0523-continuous-subarray-sum) |
 ## String
 |  |
