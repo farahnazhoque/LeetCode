@@ -105,4 +105,20 @@ I recently learnt that I get to define what failure looks like. Previously, I wo
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/farahnazhoque/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/farahnazhoque/LeetCode/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/farahnazhoque/LeetCode/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/farahnazhoque/LeetCode/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/farahnazhoque/LeetCode/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
