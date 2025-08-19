@@ -17,6 +17,7 @@ I recently learnt that I get to define what failure looks like. Previously, I wo
 | [0026-remove-duplicates-from-sorted-array](https://github.com/farahnazhoque/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/farahnazhoque/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/farahnazhoque/LeetCode/tree/master/0035-search-insert-position) |
+| [0053-maximum-subarray](https://github.com/farahnazhoque/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/farahnazhoque/LeetCode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/farahnazhoque/LeetCode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/farahnazhoque/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -55,6 +56,7 @@ I recently learnt that I get to define what failure looks like. Previously, I wo
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/farahnazhoque/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/farahnazhoque/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/farahnazhoque/LeetCode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/farahnazhoque/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Math
@@ -132,6 +134,7 @@ I recently learnt that I get to define what failure looks like. Previously, I wo
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/farahnazhoque/LeetCode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/farahnazhoque/LeetCode/tree/master/0169-majority-element) |
 ## Counting
 |  |
