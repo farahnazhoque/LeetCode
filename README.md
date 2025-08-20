@@ -26,6 +26,7 @@ I recently learnt that I get to define what failure looks like. Previously, I wo
 | [0169-majority-element](https://github.com/farahnazhoque/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/farahnazhoque/LeetCode/tree/master/0217-contains-duplicate) |
 | [0523-continuous-subarray-sum](https://github.com/farahnazhoque/LeetCode/tree/master/0523-continuous-subarray-sum) |
+| [0598-range-addition-ii](https://github.com/farahnazhoque/LeetCode/tree/master/0598-range-addition-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -69,6 +70,7 @@ I recently learnt that I get to define what failure looks like. Previously, I wo
 | [0066-plus-one](https://github.com/farahnazhoque/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/farahnazhoque/LeetCode/tree/master/0067-add-binary) |
 | [0523-continuous-subarray-sum](https://github.com/farahnazhoque/LeetCode/tree/master/0523-continuous-subarray-sum) |
+| [0598-range-addition-ii](https://github.com/farahnazhoque/LeetCode/tree/master/0598-range-addition-ii) |
 ## String
 |  |
 | ------- |
