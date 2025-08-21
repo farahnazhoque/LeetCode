@@ -70,6 +70,7 @@ I recently learnt that I get to define what failure looks like. Previously, I wo
 | [0066-plus-one](https://github.com/farahnazhoque/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/farahnazhoque/LeetCode/tree/master/0067-add-binary) |
 | [0523-continuous-subarray-sum](https://github.com/farahnazhoque/LeetCode/tree/master/0523-continuous-subarray-sum) |
+| [0592-fraction-addition-and-subtraction](https://github.com/farahnazhoque/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0598-range-addition-ii](https://github.com/farahnazhoque/LeetCode/tree/master/0598-range-addition-ii) |
 ## String
 |  |
@@ -81,6 +82,7 @@ I recently learnt that I get to define what failure looks like. Previously, I wo
 | [0058-length-of-last-word](https://github.com/farahnazhoque/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/farahnazhoque/LeetCode/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/farahnazhoque/LeetCode/tree/master/0242-valid-anagram) |
+| [0592-fraction-addition-and-subtraction](https://github.com/farahnazhoque/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 ## Trie
 |  |
 | ------- |
@@ -111,6 +113,7 @@ I recently learnt that I get to define what failure looks like. Previously, I wo
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/farahnazhoque/LeetCode/tree/master/0067-add-binary) |
+| [0592-fraction-addition-and-subtraction](https://github.com/farahnazhoque/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 ## Linked List
 |  |
 | ------- |
