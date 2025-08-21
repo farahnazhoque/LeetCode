@@ -37,6 +37,7 @@ I recently learnt that I get to define what failure looks like. Previously, I wo
 | [0027-remove-element](https://github.com/farahnazhoque/LeetCode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/farahnazhoque/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/farahnazhoque/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0234-palindrome-linked-list](https://github.com/farahnazhoque/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Sorting
 |  |
 | ------- |
@@ -118,6 +119,7 @@ I recently learnt that I get to define what failure looks like. Previously, I wo
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/farahnazhoque/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0234-palindrome-linked-list](https://github.com/farahnazhoque/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Tree
 |  |
 | ------- |
@@ -147,4 +149,12 @@ I recently learnt that I get to define what failure looks like. Previously, I wo
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/farahnazhoque/LeetCode/tree/master/0169-majority-element) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/farahnazhoque/LeetCode/tree/master/0234-palindrome-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/farahnazhoque/LeetCode/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
