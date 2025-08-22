@@ -53,6 +53,7 @@ I recently learnt that I get to define what failure looks like. Previously, I wo
 | ------- |
 | [0001-two-sum](https://github.com/farahnazhoque/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/farahnazhoque/LeetCode/tree/master/0013-roman-to-integer) |
+| [0166-fraction-to-recurring-decimal](https://github.com/farahnazhoque/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/farahnazhoque/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/farahnazhoque/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/farahnazhoque/LeetCode/tree/master/0242-valid-anagram) |
@@ -72,6 +73,7 @@ I recently learnt that I get to define what failure looks like. Previously, I wo
 | [0013-roman-to-integer](https://github.com/farahnazhoque/LeetCode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/farahnazhoque/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/farahnazhoque/LeetCode/tree/master/0067-add-binary) |
+| [0166-fraction-to-recurring-decimal](https://github.com/farahnazhoque/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0523-continuous-subarray-sum](https://github.com/farahnazhoque/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0592-fraction-addition-and-subtraction](https://github.com/farahnazhoque/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0598-range-addition-ii](https://github.com/farahnazhoque/LeetCode/tree/master/0598-range-addition-ii) |
@@ -84,6 +86,7 @@ I recently learnt that I get to define what failure looks like. Previously, I wo
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/farahnazhoque/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/farahnazhoque/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/farahnazhoque/LeetCode/tree/master/0067-add-binary) |
+| [0166-fraction-to-recurring-decimal](https://github.com/farahnazhoque/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0242-valid-anagram](https://github.com/farahnazhoque/LeetCode/tree/master/0242-valid-anagram) |
 | [0592-fraction-addition-and-subtraction](https://github.com/farahnazhoque/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 ## Trie
