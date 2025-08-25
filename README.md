@@ -19,6 +19,7 @@ I recently learnt that I get to define what failure looks like. Previously, I wo
 | [0031-next-permutation](https://github.com/farahnazhoque/LeetCode/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/farahnazhoque/LeetCode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/farahnazhoque/LeetCode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/farahnazhoque/LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/farahnazhoque/LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/farahnazhoque/LeetCode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/farahnazhoque/LeetCode/tree/master/0066-plus-one) |
@@ -122,6 +123,7 @@ I recently learnt that I get to define what failure looks like. Previously, I wo
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/farahnazhoque/LeetCode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/farahnazhoque/LeetCode/tree/master/0067-add-binary) |
 | [0592-fraction-addition-and-subtraction](https://github.com/farahnazhoque/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 ## Linked List
@@ -166,4 +168,8 @@ I recently learnt that I get to define what failure looks like. Previously, I wo
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/farahnazhoque/LeetCode/tree/master/0234-palindrome-linked-list) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/farahnazhoque/LeetCode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
