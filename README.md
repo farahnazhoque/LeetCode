@@ -18,6 +18,7 @@ I recently learnt that I get to define what failure looks like. Previously, I wo
 | [0027-remove-element](https://github.com/farahnazhoque/LeetCode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/farahnazhoque/LeetCode/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/farahnazhoque/LeetCode/tree/master/0035-search-insert-position) |
+| [0046-permutations](https://github.com/farahnazhoque/LeetCode/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/farahnazhoque/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/farahnazhoque/LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/farahnazhoque/LeetCode/tree/master/0055-jump-game) |
@@ -172,4 +173,8 @@ I recently learnt that I get to define what failure looks like. Previously, I wo
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/farahnazhoque/LeetCode/tree/master/0054-spiral-matrix) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/farahnazhoque/LeetCode/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
