@@ -32,6 +32,7 @@ I recently learnt that I get to define what failure looks like. Previously, I wo
 | [0217-contains-duplicate](https://github.com/farahnazhoque/LeetCode/tree/master/0217-contains-duplicate) |
 | [0523-continuous-subarray-sum](https://github.com/farahnazhoque/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0598-range-addition-ii](https://github.com/farahnazhoque/LeetCode/tree/master/0598-range-addition-ii) |
+| [1677-matrix-diagonal-sum](https://github.com/farahnazhoque/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -173,6 +174,7 @@ I recently learnt that I get to define what failure looks like. Previously, I wo
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/farahnazhoque/LeetCode/tree/master/0054-spiral-matrix) |
+| [1677-matrix-diagonal-sum](https://github.com/farahnazhoque/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 ## Backtracking
 |  |
 | ------- |
