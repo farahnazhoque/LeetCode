@@ -83,6 +83,7 @@ I recently learnt that I get to define what failure looks like. Previously, I wo
 | [0523-continuous-subarray-sum](https://github.com/farahnazhoque/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0592-fraction-addition-and-subtraction](https://github.com/farahnazhoque/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0598-range-addition-ii](https://github.com/farahnazhoque/LeetCode/tree/master/0598-range-addition-ii) |
+| [0640-solve-the-equation](https://github.com/farahnazhoque/LeetCode/tree/master/0640-solve-the-equation) |
 ## String
 |  |
 | ------- |
@@ -95,6 +96,7 @@ I recently learnt that I get to define what failure looks like. Previously, I wo
 | [0166-fraction-to-recurring-decimal](https://github.com/farahnazhoque/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0242-valid-anagram](https://github.com/farahnazhoque/LeetCode/tree/master/0242-valid-anagram) |
 | [0592-fraction-addition-and-subtraction](https://github.com/farahnazhoque/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
+| [0640-solve-the-equation](https://github.com/farahnazhoque/LeetCode/tree/master/0640-solve-the-equation) |
 ## Trie
 |  |
 | ------- |
@@ -128,6 +130,7 @@ I recently learnt that I get to define what failure looks like. Previously, I wo
 | [0054-spiral-matrix](https://github.com/farahnazhoque/LeetCode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/farahnazhoque/LeetCode/tree/master/0067-add-binary) |
 | [0592-fraction-addition-and-subtraction](https://github.com/farahnazhoque/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
+| [0640-solve-the-equation](https://github.com/farahnazhoque/LeetCode/tree/master/0640-solve-the-equation) |
 ## Linked List
 |  |
 | ------- |
