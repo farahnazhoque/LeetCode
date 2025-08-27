@@ -134,6 +134,7 @@ I recently learnt that I get to define what failure looks like. Previously, I wo
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/farahnazhoque/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/farahnazhoque/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0234-palindrome-linked-list](https://github.com/farahnazhoque/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Tree
@@ -159,6 +160,7 @@ I recently learnt that I get to define what failure looks like. Previously, I wo
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/farahnazhoque/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/farahnazhoque/LeetCode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/farahnazhoque/LeetCode/tree/master/0169-majority-element) |
 ## Counting
@@ -182,4 +184,12 @@ I recently learnt that I get to define what failure looks like. Previously, I wo
 |  |
 | ------- |
 | [0046-permutations](https://github.com/farahnazhoque/LeetCode/tree/master/0046-permutations) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/farahnazhoque/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/farahnazhoque/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
