@@ -147,6 +147,7 @@ I recently learnt that I get to define what failure looks like. Previously, I wo
 | [0067-add-binary](https://github.com/farahnazhoque/LeetCode/tree/master/0067-add-binary) |
 | [0592-fraction-addition-and-subtraction](https://github.com/farahnazhoque/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0640-solve-the-equation](https://github.com/farahnazhoque/LeetCode/tree/master/0640-solve-the-equation) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/farahnazhoque/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Linked List
 |  |
 | ------- |
@@ -156,6 +157,7 @@ I recently learnt that I get to define what failure looks like. Previously, I wo
 | [0083-remove-duplicates-from-sorted-list](https://github.com/farahnazhoque/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0206-reverse-linked-list](https://github.com/farahnazhoque/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/farahnazhoque/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/farahnazhoque/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/farahnazhoque/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Tree
 |  |
