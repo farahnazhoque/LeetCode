@@ -109,6 +109,7 @@ I recently learnt that I get to define what failure looks like. Previously, I wo
 | [0242-valid-anagram](https://github.com/farahnazhoque/LeetCode/tree/master/0242-valid-anagram) |
 | [0592-fraction-addition-and-subtraction](https://github.com/farahnazhoque/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0640-solve-the-equation](https://github.com/farahnazhoque/LeetCode/tree/master/0640-solve-the-equation) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/farahnazhoque/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Trie
 |  |
 | ------- |
@@ -195,6 +196,7 @@ I recently learnt that I get to define what failure looks like. Previously, I wo
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/farahnazhoque/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/farahnazhoque/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Recursion
 |  |
 | ------- |
