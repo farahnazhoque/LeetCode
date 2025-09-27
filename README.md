@@ -37,6 +37,7 @@ I recently learnt that I get to define what failure looks like. Previously, I wo
 | [0523-continuous-subarray-sum](https://github.com/farahnazhoque/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0598-range-addition-ii](https://github.com/farahnazhoque/LeetCode/tree/master/0598-range-addition-ii) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/farahnazhoque/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/farahnazhoque/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1677-matrix-diagonal-sum](https://github.com/farahnazhoque/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [3226-minimum-number-game](https://github.com/farahnazhoque/LeetCode/tree/master/3226-minimum-number-game) |
 ## Two Pointers
@@ -64,6 +65,7 @@ I recently learnt that I get to define what failure looks like. Previously, I wo
 | [0217-contains-duplicate](https://github.com/farahnazhoque/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/farahnazhoque/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/farahnazhoque/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/farahnazhoque/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [3226-minimum-number-game](https://github.com/farahnazhoque/LeetCode/tree/master/3226-minimum-number-game) |
 ## Hash Table
 |  |
@@ -219,6 +221,7 @@ I recently learnt that I get to define what failure looks like. Previously, I wo
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/farahnazhoque/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/farahnazhoque/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [3226-minimum-number-game](https://github.com/farahnazhoque/LeetCode/tree/master/3226-minimum-number-game) |
 ## Merge Sort
 |  |
