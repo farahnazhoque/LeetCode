@@ -38,6 +38,7 @@ I recently learnt that I get to define what failure looks like. Previously, I wo
 | [0598-range-addition-ii](https://github.com/farahnazhoque/LeetCode/tree/master/0598-range-addition-ii) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/farahnazhoque/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1677-matrix-diagonal-sum](https://github.com/farahnazhoque/LeetCode/tree/master/1677-matrix-diagonal-sum) |
+| [3226-minimum-number-game](https://github.com/farahnazhoque/LeetCode/tree/master/3226-minimum-number-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -63,6 +64,7 @@ I recently learnt that I get to define what failure looks like. Previously, I wo
 | [0217-contains-duplicate](https://github.com/farahnazhoque/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/farahnazhoque/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/farahnazhoque/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [3226-minimum-number-game](https://github.com/farahnazhoque/LeetCode/tree/master/3226-minimum-number-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -149,6 +151,7 @@ I recently learnt that I get to define what failure looks like. Previously, I wo
 | [0592-fraction-addition-and-subtraction](https://github.com/farahnazhoque/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0640-solve-the-equation](https://github.com/farahnazhoque/LeetCode/tree/master/0640-solve-the-equation) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/farahnazhoque/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
+| [3226-minimum-number-game](https://github.com/farahnazhoque/LeetCode/tree/master/3226-minimum-number-game) |
 ## Linked List
 |  |
 | ------- |
@@ -216,6 +219,7 @@ I recently learnt that I get to define what failure looks like. Previously, I wo
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/farahnazhoque/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [3226-minimum-number-game](https://github.com/farahnazhoque/LeetCode/tree/master/3226-minimum-number-game) |
 ## Merge Sort
 |  |
 | ------- |
