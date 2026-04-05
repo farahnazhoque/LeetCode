@@ -34,6 +34,7 @@ I recently learnt that I get to define what failure looks like. Previously, I wo
 | [0162-find-peak-element](https://github.com/farahnazhoque/LeetCode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/farahnazhoque/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/farahnazhoque/LeetCode/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/farahnazhoque/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/farahnazhoque/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0523-continuous-subarray-sum](https://github.com/farahnazhoque/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0598-range-addition-ii](https://github.com/farahnazhoque/LeetCode/tree/master/0598-range-addition-ii) |
@@ -66,6 +67,7 @@ I recently learnt that I get to define what failure looks like. Previously, I wo
 | [0169-majority-element](https://github.com/farahnazhoque/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/farahnazhoque/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/farahnazhoque/LeetCode/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/farahnazhoque/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/farahnazhoque/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/farahnazhoque/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [3226-minimum-number-game](https://github.com/farahnazhoque/LeetCode/tree/master/3226-minimum-number-game) |
@@ -80,6 +82,7 @@ I recently learnt that I get to define what failure looks like. Previously, I wo
 | [0169-majority-element](https://github.com/farahnazhoque/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/farahnazhoque/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/farahnazhoque/LeetCode/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/farahnazhoque/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/farahnazhoque/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0523-continuous-subarray-sum](https://github.com/farahnazhoque/LeetCode/tree/master/0523-continuous-subarray-sum) |
 ## Dynamic Programming
@@ -197,10 +200,12 @@ I recently learnt that I get to define what failure looks like. Previously, I wo
 | [0023-merge-k-sorted-lists](https://github.com/farahnazhoque/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/farahnazhoque/LeetCode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/farahnazhoque/LeetCode/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/farahnazhoque/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/farahnazhoque/LeetCode/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/farahnazhoque/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Stack
 |  |
 | ------- |
@@ -225,6 +230,7 @@ I recently learnt that I get to define what failure looks like. Previously, I wo
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/farahnazhoque/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0347-top-k-frequent-elements](https://github.com/farahnazhoque/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/farahnazhoque/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [3226-minimum-number-game](https://github.com/farahnazhoque/LeetCode/tree/master/3226-minimum-number-game) |
 ## Merge Sort
@@ -239,4 +245,12 @@ I recently learnt that I get to define what failure looks like. Previously, I wo
 |  |
 | ------- |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/farahnazhoque/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/farahnazhoque/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/farahnazhoque/LeetCode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
