@@ -19,6 +19,7 @@ I recently learnt that I get to define what failure looks like. Previously, I wo
 | [0031-next-permutation](https://github.com/farahnazhoque/LeetCode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/farahnazhoque/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/farahnazhoque/LeetCode/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/farahnazhoque/LeetCode/tree/master/0036-valid-sudoku) |
 | [0046-permutations](https://github.com/farahnazhoque/LeetCode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/farahnazhoque/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/farahnazhoque/LeetCode/tree/master/0053-maximum-subarray) |
@@ -77,6 +78,7 @@ I recently learnt that I get to define what failure looks like. Previously, I wo
 | ------- |
 | [0001-two-sum](https://github.com/farahnazhoque/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/farahnazhoque/LeetCode/tree/master/0013-roman-to-integer) |
+| [0036-valid-sudoku](https://github.com/farahnazhoque/LeetCode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/farahnazhoque/LeetCode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/farahnazhoque/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0166-fraction-to-recurring-decimal](https://github.com/farahnazhoque/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
@@ -221,6 +223,7 @@ I recently learnt that I get to define what failure looks like. Previously, I wo
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/farahnazhoque/LeetCode/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/farahnazhoque/LeetCode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/farahnazhoque/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/farahnazhoque/LeetCode/tree/master/1677-matrix-diagonal-sum) |
