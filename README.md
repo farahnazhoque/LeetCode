@@ -20,6 +20,7 @@ I recently learnt that I get to define what failure looks like. Previously, I wo
 | [0033-search-in-rotated-sorted-array](https://github.com/farahnazhoque/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/farahnazhoque/LeetCode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/farahnazhoque/LeetCode/tree/master/0036-valid-sudoku) |
+| [0042-trapping-rain-water](https://github.com/farahnazhoque/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/farahnazhoque/LeetCode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/farahnazhoque/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/farahnazhoque/LeetCode/tree/master/0053-maximum-subarray) |
@@ -55,6 +56,7 @@ I recently learnt that I get to define what failure looks like. Previously, I wo
 | [0027-remove-element](https://github.com/farahnazhoque/LeetCode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/farahnazhoque/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/farahnazhoque/LeetCode/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/farahnazhoque/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/farahnazhoque/LeetCode/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/farahnazhoque/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0234-palindrome-linked-list](https://github.com/farahnazhoque/LeetCode/tree/master/0234-palindrome-linked-list) |
@@ -92,6 +94,7 @@ I recently learnt that I get to define what failure looks like. Previously, I wo
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/farahnazhoque/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/farahnazhoque/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/farahnazhoque/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/farahnazhoque/LeetCode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/farahnazhoque/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -213,6 +216,7 @@ I recently learnt that I get to define what failure looks like. Previously, I wo
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/farahnazhoque/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/farahnazhoque/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/farahnazhoque/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Recursion
@@ -258,4 +262,8 @@ I recently learnt that I get to define what failure looks like. Previously, I wo
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/farahnazhoque/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/farahnazhoque/LeetCode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
